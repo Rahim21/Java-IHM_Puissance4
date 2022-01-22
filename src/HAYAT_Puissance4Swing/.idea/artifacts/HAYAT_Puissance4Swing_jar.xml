@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HAYAT_Puissance4Swing:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="HAYAT_Puissance4Swing.jar">
+      <element id="module-output" name="HAYAT_Puissance4Swing" />
+    </root>
+  </artifact>
+</component>
